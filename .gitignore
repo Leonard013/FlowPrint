@@ -135,3 +135,6 @@ dmypy.json
 
 # Ignore visualisation
 visualisation/
+datasets/
+pre_processing.py
+
